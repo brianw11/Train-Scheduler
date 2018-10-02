@@ -1,0 +1,27 @@
+.jumbotron {
+    background-color: gray;
+    color: #fff;
+    border: solid 2px #0c0c0c;
+}
+
+#panel-heading {
+    background-color: #472b70;
+}
+
+.panel-title {
+  color: #0c0c0c;
+}
+
+.panel-warning {
+    color: #000;
+}
+
+.panel {
+    background-color: #fff;
+    
+}
+
+button#add-train {
+    background-color: gray;
+    color: white;
+}
